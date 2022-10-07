@@ -1,0 +1,25 @@
+.profile-pic{
+    background-color: aliceblue;
+    /* top: 4em;
+    right: 5em; */
+    /* overflow: hidden; */
+    height: 24em;
+    /* width: 32em; */
+    padding-left: 9em;
+    display: block;
+    position: absolute;
+    z-index: 1;
+  }
+  .profile-pic img {
+    height: 24em;
+    /* width: 19em; */
+  }
+  .main .intro {
+    background-color: #dadad9;
+    height: 18em;
+    /* width: 22em; */
+    /* left: -2em; */
+    margin-top: 0.5em;
+  
+    z-index: 10;
+  } 
